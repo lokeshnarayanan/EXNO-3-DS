@@ -243,5 +243,5 @@ Reg no:212222100023
 ![image](https://github.com/lokeshnarayanan/EXNO-3-DS/assets/119393019/dd66a5ce-43c7-410b-9c02-eb08c35d28ea)
 
   # RESULT:
-        Hence performing Feature Encoding and Transformation process is Successful.
-        
+
+Hence performing Feature Encoding and Transformation process is Successful.
